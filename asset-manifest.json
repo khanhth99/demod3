@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/demod3/static/css/main.9875afca.css",
+    "main.js": "/demod3/static/js/main.26f02085.js",
+    "static/js/787.c0fc6b91.chunk.js": "/demod3/static/js/787.c0fc6b91.chunk.js",
+    "index.html": "/demod3/index.html",
+    "main.9875afca.css.map": "/demod3/static/css/main.9875afca.css.map",
+    "main.26f02085.js.map": "/demod3/static/js/main.26f02085.js.map",
+    "787.c0fc6b91.chunk.js.map": "/demod3/static/js/787.c0fc6b91.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9875afca.css",
+    "static/js/main.26f02085.js"
+  ]
+}
